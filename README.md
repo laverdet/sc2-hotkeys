@@ -30,7 +30,7 @@ improve endurance without a bold total overhaul like
 * [Comma] is "select all army" because you should be avoiding it, but sometimes you'll want it.
 * [F] is attack move. Your pinky is your weakest finger so why is it responsible for the most common
 	command?
-* [Y] is patrol but I'm thinking about switching it to [Z].
+* [Z] is patrol
 * [Space] becomes "primary ability" instead of "jump to last event". This is great because it's big
 	and easy to find and adds another finger into the mix. [R] is "secondary ability". Examples of
 	primary abilities are Stim Packs, Burrow Widow Mine, Siege Mode, Abduct, Adept Shade, Research
