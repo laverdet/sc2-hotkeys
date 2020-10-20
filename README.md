@@ -36,6 +36,7 @@ improve endurance without a bold total overhaul like
 	primary abilities are Stim Packs, Burrow Widow Mine, Siege Mode, Abduct, Adept Shade, Research
 	Yamato, Research Zergling Speed, etc. Examples of secondary abilities are Parasitic Bomb, Anti-Armor
 	Missle, Research Hydralisk Speed, etc.
+* [T] is usually movement based abilities: Tactical Jump, Lift Off, Uproot, etc.
 * [`] is "jump to last event". I find that this feature is pretty unreliable but I still like to
 	have it around.
 * Every key except [R] and [Space] are rapid fire. Many abilities have rapid fire and non-rapid fire
