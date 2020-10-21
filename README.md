@@ -25,8 +25,7 @@ improve endurance without a bold total overhaul like
 	get used to and edge scrolling is barbaric. Disable edge scroll while you're at it.
 * Camera hotkeys are [F1] - [F8] instead of [F5] - [F8]. Camera locations are set with [Control] +
 	F-key. "Center camera" is bound to [Control] + [Escape] so to set a centered location you can
-	press [Control] + [Escape] + F-key. [Control] + [Space] is an alternate for "center camera" that
-	I'm playing around with.
+	press [Control] + [Escape] + F-key.
 * [Comma] is "select all army" because you should be avoiding it, but sometimes you'll want it.
 * [F] is attack move. Your pinky is your weakest finger so why is it responsible for the most common
 	command?
@@ -39,9 +38,9 @@ improve endurance without a bold total overhaul like
 * [T] is usually movement based abilities: Tactical Jump, Lift Off, Uproot, etc.
 * [`] is "jump to last event". I find that this feature is pretty unreliable but I still like to
 	have it around.
-* Every key except [R] and [Space] are rapid fire. Many abilities have rapid fire and non-rapid fire
-	abilities. For example, Corrosive Bile is bound to both [Space] and [C] so you can use [Space] for
-	precision casting and [C] for rapid casting.
+* Every key except [A], [R] and [Space] are rapid fire. Many abilities have rapid fire and non-rapid
+	fire abilities. For example, Corrosive Bile is bound to both [Space] and [C] so you can use [Space]
+	for precision casting and [C] for rapid casting.
 * It's still a good idea to avoid using the same hotkeys for units that are often used together. So,
 	for example, Stim Packs are [Space] but Afterburners are [R]. Getting these two abilities mixed up
 	would be detrimental. Sometimes this hits in surprising ways, for example, I had "Mutate Ventral
